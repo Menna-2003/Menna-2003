@@ -49,10 +49,4 @@ I'm a motivated web developer with hands-on experience leading a web department 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menna-2003&theme=radical)
 
----
 
-### 🏆 Achievements
-
-- Head of Web Development at MAM Activity
-- Web Development Instructor
-- Cloud Computing Intern at Ejada
