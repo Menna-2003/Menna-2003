@@ -1,6 +1,7 @@
 # Hi there, I'm Menna 👋
 
 ### Full Stack Web Developer
+#### Junior Computer science student, Ain shams university
 
 ## 🌟 **About Me**
 
