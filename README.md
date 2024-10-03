@@ -5,7 +5,7 @@
 
 ## 🌟 **About Me**
 
-I'm a motivated web developer with hands-on experience leading a web department and teaching students. My skills in public speaking, teamwork, and problem-solving have been shaped by various student activities. I’m currently pursuing a Bachelor's degree in Computer and Information Science and have experience in full stack web development, focusing on **React**, **Angular**, and **ASP.NET Core 8**.
+I'm a motivated web developer with hands-on experience leading a web department and teaching students. My skills in public speaking, teamwork, and problem-solving have been shaped by various student activities. I’m currently pursuing a Bachelor's degree in Computer and Information Science and have experience in full stack web development, focusing on **Angular**, and **ASP.NET Core 8**.
 
 ---
 
